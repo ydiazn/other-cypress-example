@@ -4,14 +4,14 @@
 Abir una terminal en la raiz del proyecto y ejecutar el siguiente comando para instalar cypress.
 
 ```
-$ npm install
+$ yarn add cypress --dev
 ```
 
 ## Ejecución de cypress
 Para abir cypress ejecute el siguiente comando
 
 ```
-$ npm run cypress:open
+$ yarn run cypress open
 ```
 
 ## Ejecución de los tests
