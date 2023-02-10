@@ -4,7 +4,7 @@
 Abir una terminal en la raiz del proyecto y ejecutar el siguiente comando para instalar cypress.
 
 ```
-$ yarn add cypress --dev
+$ yarn install
 ```
 
 ## Ejecución de cypress
