@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
